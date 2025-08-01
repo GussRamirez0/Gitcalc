@@ -1,0 +1,5 @@
+1. ¿Qué es Git?
+Git es un sistema de control de versiones distribuido que permite llevar un registro de los cambios realizados en archivos de código fuente. Es muy útil cuando varios desarrolladores trabajan en el mismo proyecto, ya que permite ver qué modificaciones se han hecho, quién las hizo y cuándo.
+
+2. ¿Qué es GitHub?
+GitHub es una plataforma en la nube que permite almacenar proyectos que usan Git. Es como una red social para programadores donde puedes compartir tus proyectos, colaborar con otros y guardar tus repositorios de código. 
