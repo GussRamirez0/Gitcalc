@@ -8,3 +8,11 @@ print("Resultado:", 5 + 3)
 # Versión 3 - Saludo personalizado
 nombre = input("¿Cómo te llamas? ")
 print(f"Hola, {nombre} 👋")
+
+# Versión 4 - Suma usando función
+def sumar(a, b):
+    return a + b
+
+x = int(input("Ingresa un número: "))
+y = int(input("Ingresa otro número: "))
+print("La suma es:", sumar(x, y))
